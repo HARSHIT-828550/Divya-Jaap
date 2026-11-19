@@ -1,0 +1,6 @@
+{
+  "name": "Divya Jaap",
+  "description": "AI Mantra Companion with 108-bead Digital Rudraksha Mala, Hindi Voice Guru, Pronunciation Practice, and Offline Jaap Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
